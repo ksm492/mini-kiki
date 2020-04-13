@@ -1,4 +1,4 @@
-let textArray = ["ABSOLUTELY NOT", "DISGUSTING!", "*ATTEMPTING TO WORK*", "NOT THIS AGAIN!", "TOO TIRED FOR THIS"];
+let textArray = ["ABSOLUTELY NOT!", "DISGUSTING!", "*ATTEMPTING TO WORK*", "NOT THIS AGAIN!", "TOO TIRED FOR THIS"];
 let imageArray = ["images/shocked.jpg", "images/yuck.jpg", "images/school.jpg", "images/crying.jpg", "images/dead.jpg"  ];
 
   function getRandom(max) {
