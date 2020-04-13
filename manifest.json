@@ -7,8 +7,16 @@
     "scripts": ["background.js"]
   },
   "permissions": [
-    "https://twitter.com/explore",
-    "https://www.youtube.com/",
+    "https://twitter.com/*",
+    "https://www.youtube.com/*",
+    "https://www.instagram.com/*",
+    "https://www.tiktok.com/*",
+    "https://www.amazon.com/*",
+    "https://www.urbanoutfitters.com/*",
+    "https://www.ae.com/*",
+    "https://www.ulta.com/*",
+    "https://www.sephora.com/*",
+    "https://www.brandymelvilleusa.com/*",
     "tabs"
   ]
 }
