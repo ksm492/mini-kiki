@@ -1,3 +1,3 @@
-# mini-kiki
+# MINI-KIKI
 
-mini kiki is a chrome extension that creates a virtual version of myself to bug my friends when I'm not there.
+MINI KIKI is a chrome extension that creates a virtual version of myself to annoy my friends.

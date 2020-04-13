@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "MINI KIKI",
+  "version": "1.0",
+  "description": "This chrome extension is a virtual version of myself to annoy my friends.",
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "permissions": [
+    "https://twitter.com/explore",
+    "https://www.youtube.com/",
+    "tabs"
+  ]
+}
