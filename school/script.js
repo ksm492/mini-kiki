@@ -1,5 +1,5 @@
-let textArray = ["BORED, HUH?", "LIKE MY POST!", "LOL YOU THOUGHT", "PRODUCTIVITY? NEVER HEARD OF THAT.", "HERE WE GO AGAIN..."];
-let imageArray = ["images/sitting.jpg", "images/like.jpg", "images/lol.jpg","images/hearing.jpg", "images/whip.jpg"];
+let textArray = ["ABSOLUTELY NOT", "DISGUSTING!", "*ATTEMPTING TO WORK*", "NOT THIS AGAIN!", "TOO TIRED FOR THIS"];
+let imageArray = ["images/shocked.jpg", "images/yuck.jpg", "images/school.jpg", "images/crying.jpg", "images/dead.jpg"  ];
 
   function getRandom(max) {
     return Math.floor(Math.random() * Math.floor(max));
