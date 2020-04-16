@@ -1,3 +1,4 @@
+
 let textArray = ["SOMETHING FOR ME?", "SERIOUSLY?", "DO YOU NEED THAT?", "MAKE IT RAIN!", "DISAPPOINTED, BUT NOT SURPISED."];
 let imageArray = ["images/yahoo.jpg", "images/seriously.jpg", "images/what.jpg", "images/money.jpg", "images/chillin.jpg"];
 

@@ -55,3 +55,12 @@ chrome.tabs.onUpdated.addListener(function (tabId, changeInfo, tab) {
     }
   }
 });
+
+//New Tab Url Recognition
+chrome.tabs.onUpdated.addListener(function (tabId, changeInfo, tab) {
+  if (changeInfo.status == 'complete') {
+    if (tab.url.indexOf("chrome://newtab/") != -1) {
+      chrome.tabs.create({url:"random.html"});
+    }
+  }
+});
