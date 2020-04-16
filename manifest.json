@@ -6,8 +6,12 @@
   "background": {
     "scripts": ["background.js"]
   },
+  "chrome_url_overrides": {
+    "newtab": "01.html"
+  },
   "permissions": [
     "tabs",
-    "activeTab"
+    "activeTab",
+    "<all_urls>"
   ]
 }
