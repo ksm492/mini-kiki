@@ -7,8 +7,5 @@ let imageArray = ["images/shocked.jpg", "images/yuck.jpg", "images/school.jpg", 
   }
 
   let i = getRandom(textArray.length);
-  let randomText = textArray[i];
-  let randomImage = imageArray[i];
-
   document.getElementById("text").innerHTML = textArray[i];
   document.getElementById("image").innerHTML = '<img src="' + imageArray[i] + '">';
