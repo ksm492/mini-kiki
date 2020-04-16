@@ -16,6 +16,10 @@ body {
   align-items: center;
 }
 
+.container-hide {
+  display: none;
+}
+
 #text {
   font-size: 24px;
 }

@@ -1,6 +1,6 @@
 
-let textArray = ["DO NOT DISTURB", "CLEAN UP YOUR WORKSPACE", "NAMASTE B*TCHES", "ASIAN LIVES MATTER"];
-let imageArray = ["images/sleep.jpg", "images/clean.jpg", "images/yoga.jpg", "images/yell.jpg"];
+let textArray = ["IT'S ME, MINI KIKI!", "PLEASE DO NOT DISTURB", "CLEAN UP YOUR WORKSPACE", "NAMASTE B*TCHES", "ASIAN LIVES MATTER"];
+let imageArray = ["images/hello.jpg","images/sleep.jpg", "images/clean.jpg", "images/yoga.jpg", "images/yell.jpg"];
 
   function getRandom(max) {
     return Math.floor(Math.random() * Math.floor(max));
