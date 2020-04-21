@@ -1,3 +1,4 @@
+// Credit for Background Script and Tab Update:
 // https://developer.chrome.com/extensions/background_pages
 // https://stackoverflow.com/questions/27239280/
 
