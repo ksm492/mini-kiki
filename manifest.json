@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "MINI KIKI",
   "version": "1.0",
-  "description": "DID YOU MISS ME?",
+  "description": "HAHA DID YOU MISS ME?",
   "background": {
     "scripts": ["background.js"]
   },
